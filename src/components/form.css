@@ -1,5 +1,5 @@
 input {
-    width: 83%;
+    width: 80%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
@@ -15,7 +15,7 @@ button {
     background-color: rgb(255, 255, 255); /* Green */
     border: none;
     color: rgb(25, 92, 97);
-    width: 83%;
+    width: 80%;
     padding: 12px 20px;
     text-align: center;
     text-decoration: none;
